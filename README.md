@@ -61,7 +61,7 @@ The key must have access to the target team and billing data.
 Clone the repo and enter the project folder:
 
 ```bat
-git clone https://github.com/<your-account>/xai-remaining.git
+git clone https://github.com/ClayPippenger/xai-remaining.git
 cd xai-remaining
 ```
 
@@ -137,10 +137,10 @@ Build the EXE first so `dist\xAI Remaining.exe` exists.
 shell:startup
 ```
 
-3. Create a shortcut to:
+3. Create a shortcut to your built EXE, for example:
 
 ```text
-C:\Codex\xAI Remaining\dist\xAI Remaining.exe
+C:\path\to\xai-remaining\dist\xAI Remaining.exe
 ```
 
 Environment variables must be set with `setx` or through Windows user/system environment variables before auto-start will work.
