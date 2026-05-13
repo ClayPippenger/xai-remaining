@@ -1,0 +1,4 @@
+{
+  "low_balance_alert_threshold_usd": 60.0,
+  "flash_interval_seconds": 1.0
+}
