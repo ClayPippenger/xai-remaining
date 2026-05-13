@@ -6,21 +6,7 @@ It is xAI-only, intentionally small, and designed for local operator use. It doe
 
 ## Screenshot
 
-A real tray screenshot is not checked in yet. Before publishing a release, capture the app running on Windows and save it here:
-
-```text
-docs/screenshots/tray-preview.png
-```
-
-This README intentionally does not embed that image until the PNG exists.
-
-Then add it to this section, for example:
-
-```md
 ![xAI Remaining tray preview](docs/screenshots/tray-preview.png)
-```
-
-Do not add a mock, generated, or placeholder image as the screenshot.
 
 ## What It Does
 
